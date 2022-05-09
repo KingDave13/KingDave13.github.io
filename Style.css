@@ -1,0 +1,53 @@
+/*This is the syntax
+Selector {
+	property: value;*/
+body {
+	background-image: url(multi-color-powder-explosion-white-background.jpg);
+	background-size: cover;
+}
+h1 {
+	text-align: center;
+	color: darkred;
+	border: 2px solid darkred;
+	cursor: pointer;
+}
+li {
+	list-style: none;
+}
+img {
+	cursor: pointer;
+}
+.text {
+	border: 2px solid darkgreen;
+}
+.text2 {
+	border: 2px solid darkgreen;
+}
+.text3 {
+	border: 2px solid darkgreen;
+}
+.dave {
+	border: 5px dashed forestgreen;
+	color: darkred;
+}
+#div1 {
+	background: rgba(255, 255, 172, 1.0);
+	padding: 0px 600px !important;
+}
+#div2 {
+	background: lightgreen;
+}
+h1, a {
+	font-family: montserrat;
+}
+#div3 {
+	float: right;
+}
+footer {
+	text-align: center;
+	font-weight: bold;
+	font-family: poppins;
+}
+a {
+	text-decoration: none;
+}
